@@ -15,19 +15,17 @@ image::qrcode.png["QRCode to this presentation",height=150]
 [.small]
 Presentation available at link:{presentationUrl}[]
 
-image::devoxx-background.jpg[background, size=cover]
-
 // //// Speaker Slide and Company slide
+[{invert}]
 == Whoami
+Emile vauge
 
-* Damien DUPORTAL:
-** link:https://traefik.io/[Træfik]'s Developer Advocate @
-link:https://containo.us/[Containous] and Freelancer
-** Former Training Engineer @ CloudBees
-* link:https://twitter.com/DamienDuportal[icon:twitter[] @DamienDuportal]
-* link:https://github.com/dduportal[icon:github[] dduportal]
+* 🇫🇷 developer
+* Creator of link:https://traefik.io/[Træfik], Founder of link:https://containo.us/[Containous]
+* link:https://twitter.com/emilevauge[icon:twitter[] @emilevauge]
+* link:https://github.com/emilevauge[icon:github[] emilevauge]
 
-image::damien.jpg[height=200]
+image::emile-bw.jpg[height=200]
 
 [{invert}]
 == How to use these slides?
@@ -46,7 +44,7 @@ image::damien.jpg[height=200]
 * We Believe in Open Source
 * We Deliver Traefik
 * Commercial Support for Traefik
-* 12 people, 90% technical experts
+* 17 people, 90% technical experts
 
 image::containous-logo.png["Containous Logo"]
 
@@ -70,7 +68,3 @@ include::./includes/more-capabilities.adoc[]
 include::./includes/verysecretproject.adoc[]
 
 :leveloffset: -1
-
-== !
-
-image::devoxx-PleaseRateMe.jpg[background, size=cover]
